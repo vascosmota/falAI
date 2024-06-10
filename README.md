@@ -1,6 +1,7 @@
 # falAI
 Speech-to-text tool
 
+"Falai" is a Portuguese word corresponding to the imperative tense of the verb "to speak", in the second person of the plural. It translate to "[you] Speak!".
 
 ## Use Case
 Creating emails by speaking to a microphone.
